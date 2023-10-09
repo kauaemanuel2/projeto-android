@@ -67,6 +67,7 @@ nav > a:hover{
     color: var(--cor5);
 }
 main{
+display: block;
 min-width: 300px;
 max-width: 1000px;
 background-color: white;
